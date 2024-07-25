@@ -1,0 +1,117 @@
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
+}
+
+.header {
+    padding-top: 20px;
+    position: absolute;
+    left: 15px;
+    top: 0;
+    z-index: 2;
+}
+.header img {
+    width: 260px;
+    height: auto;
+}
+
+img {
+    vertical-align: middle;
+}
+
+img {
+    border: 0;
+}
+
+img {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+
+
+.link2 {
+    text-align: right;
+    position: absolute;
+    top: 1rem;
+    right: 15px;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 25px;
+}
+
+a.link2 {
+    text-decoration: none;
+    color: #251d20;
+}
+a:hover {
+    text-decoration: underline;
+}
+a {
+    background-color: transparent;
+}
+
+.description {
+    text-align: left;
+    position: absolute;
+    top: 44rem;
+    left: 20px;
+}
+
+.description-p {
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.privacy-policy {
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.description a {
+    color: black;
+}
+
+.columns {
+    text-align: right;
+    position: absolute;
+    top: 44rem;
+    right: 15px;
+    font-size: 19px;
+}
+ul {
+    list-style-type: none;
+}
+
+.menulink {
+    text-decoration: none;
+    color: #251d20;
+    
+}
+
+.section {
+    text-align: center;
+}
+
+.section p {
+    color: #251d20;
+    font-size: 15px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.orin a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.sixs a {
+    color: #e568ac;
+}
+
+.copyright {
+    font-size: 12px;
+}
